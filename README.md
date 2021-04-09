@@ -12,3 +12,5 @@ html,body{
 .background{
     backgound-image:url(../images/bg.jpg);
     background-reapt: no repeat;
+    
+    }
